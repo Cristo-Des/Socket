@@ -1,0 +1,8 @@
+C:\Users\soriana\source\repos\SocketServidor\SocketServidor\bin\Debug\SocketServidor.exe.config
+C:\Users\soriana\source\repos\SocketServidor\SocketServidor\bin\Debug\SocketServidor.exe
+C:\Users\soriana\source\repos\SocketServidor\SocketServidor\bin\Debug\SocketServidor.pdb
+C:\Users\soriana\source\repos\SocketServidor\SocketServidor\obj\Debug\SocketServidor.csproj.AssemblyReference.cache
+C:\Users\soriana\source\repos\SocketServidor\SocketServidor\obj\Debug\SocketServidor.csproj.SuggestedBindingRedirects.cache
+C:\Users\soriana\source\repos\SocketServidor\SocketServidor\obj\Debug\SocketServidor.csproj.CoreCompileInputs.cache
+C:\Users\soriana\source\repos\SocketServidor\SocketServidor\obj\Debug\SocketServidor.exe
+C:\Users\soriana\source\repos\SocketServidor\SocketServidor\obj\Debug\SocketServidor.pdb
